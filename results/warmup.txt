@@ -1,0 +1,5 @@
+Calls per algorithm: 1500
+Warm-up total nanoseconds: 565717200
+Warm-up total milliseconds: 565.7172
+Warm-up excluded from benchmark data: yes
+Random seed: 4512026
